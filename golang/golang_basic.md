@@ -1,0 +1,1 @@
+- setup simple project to understand how it work and why we need 
